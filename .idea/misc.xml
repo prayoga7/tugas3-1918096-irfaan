@@ -3,12 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/TUGAS TI/SEMESTER 5/Mobile Programming/praktikum3/app/src/main/res/drawable/ic_home.xml" value="0.18888888888888888" />
         <entry key="..\:/TUGAS TI/SEMESTER 5/Mobile Programming/praktikum3/app/src/main/res/layout/activity_main.xml" value="0.176" />
         <entry key="..\:/TUGAS TI/SEMESTER 5/Mobile Programming/praktikum3/app/src/main/res/layout/fragment_account.xml" value="0.1585144927536232" />
         <entry key="..\:/TUGAS TI/SEMESTER 5/Mobile Programming/praktikum3/app/src/main/res/layout/fragment_home.xml" value="0.152" />
         <entry key="..\:/TUGAS TI/SEMESTER 5/Mobile Programming/praktikum3/app/src/main/res/layout/fragment_settings.xml" value="0.1585144927536232" />
         <entry key="..\:/TUGAS TI/SEMESTER 5/Mobile Programming/praktikum3/app/src/main/res/layout/nav_header.xml" value="0.2" />
-        <entry key="..\:/TUGAS TI/SEMESTER 5/Mobile Programming/praktikum3/app/src/main/res/menu/draw_menu.xml" value="0.25" />
+        <entry key="..\:/TUGAS TI/SEMESTER 5/Mobile Programming/praktikum3/app/src/main/res/menu/draw_menu.xml" value="0.536" />
       </map>
     </option>
   </component>
